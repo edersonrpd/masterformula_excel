@@ -1,0 +1,6 @@
+1 - Instalar o Python https://www.python.org/downloads/
+2 - Instalar dependencias : Pelo cmd na pasta do script execute "pip install -r requirements.txt" sem aspas.
+3 - Criar a pasta "arquivos" e colocar os pedidos dentro dela.
+4 - Executar o arquivo masterformula_pedidos.bat
+
+	
